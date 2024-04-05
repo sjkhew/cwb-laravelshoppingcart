@@ -1,11 +1,11 @@
 {
-    "name": "darryldecode/cart",
+    "name": "sjkhew/laravelshoppingcart",
     "description": "Laravel 5 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Darryl Fernandez",
+            "name": "Khew (Original by Darryl Fernandez)",
             "email": "engrdarrylfernandez@gmail.com"
         }
     ],
